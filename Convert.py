@@ -7,4 +7,6 @@ print(f"{x} kg equals to : {x/1000} Tons")
 
 print(f"\n{'-'*12}")
 
+print('\nBye bye!'
+
 
